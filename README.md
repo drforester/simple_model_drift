@@ -1,7 +1,10 @@
 # A Simple Framework for Testing Model Drift with Various ML Models  
 
+[//]: # (Image References)
+[image1]: ./images/trials.gif  
+
 <br/>
-![Alt Text](./images/trials.gif)
+![image1][image1]
 <br/>
 
 
