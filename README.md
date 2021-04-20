@@ -1,12 +1,10 @@
 # A Simple Framework for Testing Model Drift with Various ML Models  
 
+![alt text][image0]
+
 [//]: # (Image References)
-[image1]: ./images/trials.gif  
+[image0]: ./images/trials.gif
 
-
-<br/>
-![trials][image1]  
-<br/>
 <br/>
 
 This example uses Scikit-Learn's [make\_classification](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_classification.html) method to create 2-class datasets that begin to become indistinguishable over many trials. In the image above, note that the score, which is the mean accuracy, decreases with each trial.  
